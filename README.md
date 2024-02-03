@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mubashir Hassan</h1>
+![image](https://github.com/MubashirZaidi1/MubashirZaidi1/assets/124818652/801d337d-721f-410a-8414-37b9bb561411)![image](https://github.com/MubashirZaidi1/MubashirZaidi1/assets/124818652/ae0fc5f7-1069-4a42-8322-d35c397443de)<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mubashir Hassan</h1>
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Undergraduate;Full+Stack+Developer;Machine+Learning+Engineer;DS%20|%20AI%20|%20ML%20Enthusiast;Creative+Thinker&center=true&width=500&height=50"></a>
 </p>
@@ -40,17 +40,16 @@
 <code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
 <code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
-<code> <a href="https://spark.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Apache Spark Logo" width="200"></a></code>
-<code> <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Apache Kafka Logo" width="200"></a></code>
-<code> <a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" alt="Apache Hadoop Logo" width="200"></a></code>
+<code> <a href="https://spark.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark Logo" width="200"></a></code>
+<code> <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka Logo" width="200"></a></code>
+<code> <a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Apache Hadoop Logo" width="200"></a></code>
 <code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
 <code><a href="https://opencv.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
 <code><a href="https://d3js.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logo_D3.svg/1024px-Logo_D3.svg.png" alt="D3.js Logo" width="200">
+        <img src="https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg" alt="D3.js Logo" width="200">
     </a></code>
-<code> <a href="https://isocpp.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1024px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo" width="200"></a></code
 </details>
 <br>
 
