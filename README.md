@@ -1,4 +1,4 @@
-![image](https://github.com/MubashirZaidi1/MubashirZaidi1/assets/124818652/801d337d-721f-410a-8414-37b9bb561411)![image](https://github.com/MubashirZaidi1/MubashirZaidi1/assets/124818652/ae0fc5f7-1069-4a42-8322-d35c397443de)<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mubashir Hassan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mubashir Hassan</h1>
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Undergraduate;Full+Stack+Developer;Machine+Learning+Engineer;DS%20|%20AI%20|%20ML%20Enthusiast;Creative+Thinker&center=true&width=500&height=50"></a>
 </p>
