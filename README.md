@@ -2,7 +2,7 @@
 Hello! Welcome to my personal README file. This document provides an overview of who I am, my skills, interests, and how you can get in touch with me.
 
 ## About Me
-I am [Your Name], a passionate [Your Profession/Field] with interests in [Your Interests]. I enjoy [Your Hobbies] and [Your Passions].
+I am Muhammad Mubashir Hassan, a passionate ### Data Scientist  with interests in ### Machine learning . I enjoy [Your Hobbies] and [Your Passions].
 
 ## Skills
 Programming Languages: List the programming languages you're proficient in.
