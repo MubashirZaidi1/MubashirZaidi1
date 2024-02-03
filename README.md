@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Mubashir Hassan</b>, a final year <b>Data Science</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Fast-National University of Computers & Emerging Sciences</b>,Islamabad,Pakistan</a>.
+    This is me <b>Mubashir Hassan</b>, a final year <b>Data Science</b> undergraduate from <a href="https://www.nu.edu.pk/"> <b>Fast-National University of Computers & Emerging Sciences</b>,Islamabad,Pakistan</a>.
     An aspiring <b>Data Scientist,</b>&nbsp; <b>Full Stack Developer</b>&nbsp; <b> Artificial Intelligence Enthusiast.</b> and <b> Machine Learning Engineer </b> 
   <br>
   <b><i>"---Artificial intelligence is the new electricity.---"</i></b>
@@ -28,6 +28,7 @@
 </summary>
    <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
+<code><a href="https://isocpp.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1024px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo"></a></code>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
@@ -40,16 +41,14 @@
 <code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
 <code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
-<code> <a href="https://spark.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark Logo" width="200"></a></code>
-<code> <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka Logo" width="200"></a></code>
-<code> <a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Apache Hadoop Logo" width="200"></a></code>
+<code> <a href="https://spark.apache.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark Logo"></a></code>
+<code> <a href="https://kafka.apache.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka Logo" width="200"></a></code>
+<code> <a href="https://hadoop.apache.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Apache Hadoop Logo" width="200"></a></code>
 <code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
 <code><a href="https://opencv.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
-<code><a href="https://d3js.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg" alt="D3.js Logo" width="200">
-    </a></code>
+<code><a href="https://d3js.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg" alt="D3.js Logo" ></a></code>
 </details>
 <br>
 
@@ -61,8 +60,6 @@
 <code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
 <code><a href="https://opencv.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
-
 </details>
 <br>
 
