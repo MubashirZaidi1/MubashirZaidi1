@@ -44,8 +44,6 @@
 <code> <a href="https://hadoop.apache.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Apache Hadoop Logo" ></a></code>
 <code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
-<code><a href="https://opencv.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
 <code><a href="https://d3js.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg" alt="D3.js Logo" ></a></code>
 </details>
 <br>
