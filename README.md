@@ -8,7 +8,7 @@
     This is me <b>Mubashir Hassan</b>, a final year <b>Data Science</b> undergraduate from <a href="https://www.nu.edu.pk/"> <b>Fast-National University of Computers & Emerging Sciences</b>,Islamabad,Pakistan</a>.
     An aspiring <b>Data Scientist,</b>&nbsp; <b>Full Stack Developer,</b>&nbsp; <b>Artificial Intelligence Enthusiast</b> and <b> Machine Learning Engineer </b> 
   <br>
-  <b><i>"---Artificial intelligence is the new electricity.---"</i></b>
+  <b><i>"---Artificial intelligence is the electricity of our era, illuminating paths previously unseen---"</i></b>
 </p>
 
 <h3>Little facts about me 🧑</h3>
