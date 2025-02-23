@@ -10,6 +10,25 @@
   <br>
   <b><i>"---Artificial intelligence is the electricity of our era, illuminating paths previously unseen---"</i></b>
 </p>
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/mubashirzaidi1 rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-6f0dd65c-aa0d-4e70-a278-68b82b267c5e' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >mubashirzaidi1</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>Experienced data scientist/data analyst proficient in Python, machine 
+learning, web development, Web Scrapping and EDA techniques. Detail-oriented, 
+organized, and dedicated team player with strong problem-solving 
+skills.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-6f0dd65c-aa0d-4e70-a278-68b82b267c5e' src='https://widgets.fiverr.com/api/v1/seller/mubashirzaidi1?widget_id=6f0dd65c-aa0d-4e70-a278-68b82b267c5e' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
+
 
 <h3>Little facts about me 🧑</h3>
 
