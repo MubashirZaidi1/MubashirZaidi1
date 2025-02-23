@@ -13,9 +13,6 @@
 
 <a itemprop='url' href=https://www.fiverr.com/mubashirzaidi1 rel="nofollow" target="_blank" style='display: inline-block;'>
 
-<script id='fiverr-seller-widget-script-6f0dd65c-aa0d-4e70-a278-68b82b267c5e' src='https://widgets.fiverr.com/api/v1/seller/mubashirzaidi1?widget_id=6f0dd65c-aa0d-4e70-a278-68b82b267c5e' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
-
-
 <h3>Little facts about me 🧑</h3>
 
 - 🔭 I’m currently working on Fullstack Web Development, Machine Learning , Deep Learning.
